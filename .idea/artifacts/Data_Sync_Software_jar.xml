@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Data Sync Software:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Data_Sync_Software_jar</output-path>
+    <root id="archive" name="Data Sync Software.jar">
+      <element id="module-output" name="Data Sync Software" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jdbc/mysql-connector-java-5.1.41/mysql-connector-java-5.1.41-bin.jar" path-in-jar="/" />
+      <element id="library" level="project" name="jfoenix" />
+    </root>
+  </artifact>
+</component>

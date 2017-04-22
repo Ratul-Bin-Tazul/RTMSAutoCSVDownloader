@@ -1,0 +1,18 @@
+
+.timeLeftText{
+    -fx-font-size: 64pt;
+    -fx-text-fill: #444;
+
+    -fx-start-margin: 50px;
+}
+.syncStatusLable{
+    -fx-font-size: 24pt;
+    -fx-text-fill: #444;
+    -fx-start-margin: 50px;
+}
+.btn{
+    -fx-background-color: #2196f3;
+    -fx-text-fill: #ffffff;
+    -fx-padding: 6 20 6 20 pt;
+    -fx-text-alignment: center;
+}
